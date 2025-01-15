@@ -7,7 +7,7 @@ This is the download repo for updates to the Hypurr Tilt Chrome extension, prior
 App release 1.0 for Chrome is here
 
 How to install:
-- Download and extract zip to a local folder
+- Download and extract zip to a local folder (https://github.com/steddyman/hypurr_tilt_download/blob/main/build.zip)
   - Click build.zip on the right, then on the page that opens click the Download Raw icon top right
 - Open Chrome and go to chrome://extensions in address bar
 - Enable developer mode (top right)
