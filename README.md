@@ -1,6 +1,12 @@
 # hypurr_tilt_download
 **Hypurr Tilt download repo**
 
+**
+Download removed because v1.0.4 doesn't work with the update published 21st Jan by loracle.
+A new version is ready and being submitted to google for approval.
+Future updates and downloads will come from the Chrome Web Store
+**
+
 This is the download repo for updates to the Hypurr Tilt Chrome extension, prior to it being published on the Chrome Web Store.
 
 ## Notes
