@@ -1,6 +1,11 @@
 # hypurr_tilt_download
 **Hypurr Tilt download repo**
 
+Tilt is now downloadable from the Chrome Web Store: https://chromewebstore.google.com/detail/tilt/cjlabagnndciogfdpjmmjhhogpnnlono?authuser=0&hl=en-GB
+
+READ NO FURTHER
+---------------
+
 This extension has been submitted to Google for approval.  If you wait for the approval, future updates will be automatic.
 
 If you cannot wait, you are able to download the same release below.
